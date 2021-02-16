@@ -1,1 +1,2 @@
-print('hello world')
+from config import NAME
+print('hello ' + NAME)
